@@ -25,6 +25,20 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=daxh&theme=tokyonight" alt="GitHub Streak Stats" />
+
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daxh733&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+  <br /><br />
+
+  <!-- 📈 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daxh733&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <br /><br />
+
+  <!-- 🧠 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxh733&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
+
 
